@@ -4,7 +4,7 @@
   
   <link href="/atom.xml" rel="self"/>
   <link href="http://http://huangjunlin.github.io/"/>
-  <updated>2015-12-13T09:52:22.490Z</updated>
+  <updated>2015-12-13T15:54:54.732Z</updated>
   <id>http://http://huangjunlin.github.io/</id>
   
   <author>
@@ -19,12 +19,11 @@
     <link href="http://http://huangjunlin.github.io/2015/12/13/test/"/>
     <id>http://http://huangjunlin.github.io/2015/12/13/test/</id>
     <published>2015-12-13T09:51:43.000Z</published>
-    <updated>2015-12-13T09:52:22.490Z</updated>
-    <content type="html"><![CDATA[<p>#test</p>
-]]></content>
+    <updated>2015-12-13T15:54:54.732Z</updated>
+    <content type="html"><![CDATA[<h2 id="u65B0_u5EFA_u6D4B_u8BD5_u4E00_u4E0B"><a href="#u65B0_u5EFA_u6D4B_u8BD5_u4E00_u4E0B" class="headerlink" title="新建测试一下"></a>新建测试一下</h2><pre><code>你好，世界
+</code></pre>]]></content>
     <summary type="html">
-    <![CDATA[<p>#test</p>
-]]>
+    <![CDATA[<h2 id="u65B0_u5EFA_u6D4B_u8BD5_u4E00_u4E0B"><a href="#u65B0_u5EFA_u6D4B_u8BD5_u4E00_u4E0B" class="headerlink" title="新建测试一下"></a>新建测试一下</h2]]>
     </summary>
     
   </entry>
